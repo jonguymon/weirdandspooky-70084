@@ -2,7 +2,7 @@
 title: Home
 sections:
   - type: hero_section
-    title: Welcome to the Weird and Spooky 
+    title: Welcome to the Weird and Spooky Podcast
     subtitle: >-
       Optional hero section subtitle
     content: >-
