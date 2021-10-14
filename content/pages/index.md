@@ -6,7 +6,7 @@ sections:
     subtitle: >-
       Haunted By The Past
     content: >-
-      A podcast for Web developers interested in building Jamstack websites. Hosted by Miles Tone.
+      A podcast for people who like to hear about strange and 
     actions:
       - label: Subscribe to Podcast
         url: /thank-you
