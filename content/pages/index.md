@@ -2,7 +2,7 @@
 title: Home
 sections:
   - type: hero_section
-    title: Welcome to DIYJam Podcast
+    title: Welcome to the Weird and Spooky 
     subtitle: >-
       Optional hero section subtitle
     content: >-
