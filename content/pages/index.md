@@ -4,7 +4,7 @@ sections:
   - type: hero_section
     title: Welcome to the Weird and Spooky Podcast
     subtitle: >-
-      Optional hero section subtitle
+      Haunted By The Past
     content: >-
       A podcast for Web developers interested in building Jamstack websites. Hosted by Miles Tone.
     actions:
