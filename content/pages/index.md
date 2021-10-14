@@ -6,7 +6,7 @@ sections:
     subtitle: >-
       Haunted By The Past
     content: >-
-      A podcast for people who like to hear about strange and 
+      A podcast for people who like to hear about strange and haunted tails. We mix in a bit of history 
     actions:
       - label: Subscribe to Podcast
         url: /thank-you
